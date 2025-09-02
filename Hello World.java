@@ -6,6 +6,7 @@ public class Hello World{
 		test;
 		test 123;
 		test 4;
+		test 5;
 	}
 	
 }
